@@ -11,10 +11,10 @@
 - 💬 Ask me about anything in general which need not be specific to computer programming.
 - 📫 How to reach me: 
     
-    ![Instagram](assets/instagram.png "Instagram") [`Instagram`](https://www.instagram.com/shrinidhivarna/ "Shrinidhi Varna")
+    ![Instagram](https://github.com/shrinidhi99/shrinidhi99/blob/master/assets/instagram.png "Instagram") [`Instagram`](https://www.instagram.com/shrinidhivarna/ "Shrinidhi Varna")
 
-    ![LinkedIn](assets/linkedin.png "LinkedIn") [`LinkedIn`](https://www.linkedin.com/in/shrinidhi99/ "Shrinidhi Varna")
+    ![LinkedIn](https://github.com/shrinidhi99/shrinidhi99/blob/master/assets/linkedin.png "LinkedIn") [`LinkedIn`](https://www.linkedin.com/in/shrinidhi99/ "Shrinidhi Varna")
     
-    ![GitLab](assets/gitlab.png "GitLab") [`GitLab`](https://gitlab.com/shrinidhi99 "Shrinidhi Anil Varna")
+    ![GitLab](https://github.com/shrinidhi99/shrinidhi99/blob/master/assets/gitlab.png "GitLab") [`GitLab`](https://gitlab.com/shrinidhi99 "Shrinidhi Anil Varna")
 - 😄 Pronouns: He
 - ⚡ Fun fact: Don't go by the `greenery` of my GitHub contributions. Most of them were for my learning.
