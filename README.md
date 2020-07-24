@@ -1,9 +1,7 @@
 ### Hi there 👋
 <p align="center">
 <a href="https://github.com/shrinidhi99"><img src="https://avatars1.githubusercontent.com/u/32514046?s=460&u=df682293524053c34ccf75b31ccdfef03660c078&v=4" alt="GitHub" width="80"></a>
-<p>
 <br>
-<p align="center">
 <a href="https://github.com/shrinidhi99"><img src="https://img.shields.io/badge/shrinidhi-github-blue" alt="GitHub"></a>
 </p>
 
