@@ -4,21 +4,8 @@
 <a href="https://github.com/shrinidhi99"><img src="https://img.shields.io/badge/shrinidhi-github-blue" alt="GitHub"></a>
 </center>
 
-- 🔭 I’m currently working on __placement preparations_.
-- 🌱 I’m currently learning big data analytics, machine learning, TensorFlow APIs and algorithms.
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 🤔 I’m looking for help with deep learning and machine learning.
-- 💬 Ask me about anything in general which need not be specific to computer programming.
-- 📫 How to reach me: 
-    
-    ![Instagram](assets/instagram.png "Instagram") [`Instagram`](https://www.instagram.com/shrinidhivarna/ "Shrinidhi Varna")
-
-    ![LinkedIn](assets/linkedin.png "LinkedIn") [`LinkedIn`](https://www.linkedin.com/in/shrinidhi99/ "Shrinidhi Varna")
-    
-    ![GitLab](assets/gitlab.png "GitLab") [`GitLab`](https://gitlab.com/shrinidhi99 "Shrinidhi Anil Varna")
-- 😄 Pronouns: He
-- ⚡ Fun fact: Don't go by the `greenery` of my GitHub contributions. Most of them were for my personal projects.- 🔭 I'm currently working on _placement preparations_.
-- 🌱 I'm currently learning big data analytics, machine learning, TensorFlow APIs and algorithms.
+- 🔭 I'm currently working on _placement preparations_.
+- 🌱 I'm currently learning ```Big Data analytics```, ```Machine Learning```, ```TensorFlow APIs``` and ```algorithms```.
 <!-- - 👯 I'm looking to collaborate on ... -->
 - 🤔 I'm looking for help with deep learning and machine learning.
 - 💬 Ask me about anything in general which need not be specific to computer programming.
