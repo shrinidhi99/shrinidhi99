@@ -5,7 +5,7 @@
 <a href="https://github.com/shrinidhi99"><img src="https://img.shields.io/badge/shrinidhi-github-blue" alt="GitHub"></a>
 </p>
 
-- 🔭 I'm currently in my 7th semester.
+- 🔭 I'm currently in my 8th semester.
 - 🌱 I'm currently learning ```Big Data analytics```, ```Machine Learning```, ```TensorFlow APIs``` and ```algorithms```.
 <!-- - 👯 I'm looking to collaborate on ... -->
 - 🤔 I'm looking for help with deep learning and machine learning.
